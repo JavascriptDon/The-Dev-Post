@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react"
-import "../style.css"
+import React from "react"
+import "../style.scss"
 import Sun from "../images/sun.svg"
 import Moon from "../images/moon.svg"
 
@@ -15,12 +15,12 @@ export default function DarkMode() {
   }, [isDark])
 
   return (
-    <div className="global-toggle-switch">
+    <button className="global-toggle-switch">
       {isDark ? (
         <img onClick={() => setIsDark(!isDark)} src={Sun} alt="sun img" />
       ) : (
         <img onClick={() => setIsDark(!isDark)} src={Moon} alt="moon img" />
       )}
-    </div>
+    </button>
   )
 }
