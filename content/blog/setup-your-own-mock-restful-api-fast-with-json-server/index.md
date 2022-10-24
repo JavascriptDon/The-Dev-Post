@@ -100,7 +100,7 @@ npx json-server --watch db.json
 
 Requests can now be sent to `http://localhost:3000/quotes` and will return :
 
-![mockapi.png](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ywteyhtuf9grn285wrt0.png)
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ywteyhtuf9grn285wrt0.png" alt="mock-api" width="780" height="500"/>
 
 ## Heroku Deployment | 3 Step Deployment
 
@@ -140,7 +140,7 @@ heroku logs --tail
 
 [Check It Out! 🔥](https://famous-quotes-project.herokuapp.com/quotes)
 
-![dev.png](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8rome1nu9gxasjguo7q3.png)
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8rome1nu9gxasjguo7q3.png" alt="json-server" width="780" height="580" />
 
 ## Conclusion
 

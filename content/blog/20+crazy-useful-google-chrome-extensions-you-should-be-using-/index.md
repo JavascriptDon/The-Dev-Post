@@ -20,7 +20,7 @@ Raindrop.io is a one-stop bookmark manager that allows you to save anything from
 
 Kami is a solid Chrome extension for students, teachers, researchers, and educators. It’s a PDF and document annotation tool that can be a life-saver for students and educators.
 
-![Kami.png](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x3w0h3hhc6cjpefo45l5.png)
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x3w0h3hhc6cjpefo45l5.png" alt="kami" width="780" height="380"/>
 
 ## 4. [Noisli](https://chrome.google.com/webstore/detail/noisli/klejemegaoblahjdpcajmpcnjjmkmkkf)
 
@@ -145,4 +145,4 @@ This one is for people who like simple onboarding and value extensions for free.
 
 KeePassXC is a free open-source password manager. If you’re done with the cloud-based services, it might be just for you. Using KeePassXC gives you complete control over your passwords by storing everything in a secure local file instead of on a remote server, which for many users is preferable given the prevalence of data breaches.
 
-![Keypass.png](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vrm4f9j7foqljq9hg7q5.png)
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vrm4f9j7foqljq9hg7q5.png" alt="keypass" width="780" height="380"/>

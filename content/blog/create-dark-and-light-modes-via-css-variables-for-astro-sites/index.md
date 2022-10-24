@@ -11,7 +11,7 @@ In this post, we'll look at how to add support for dark mode to your website in 
 I highly recommend you go ahead and fork a Astro starter from [Astro.new](https://astro.new/).
 
 
-![AstroNew.png](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/99746aaohbynavl1cmxm.png)
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/99746aaohbynavl1cmxm.png" alt="Brand-Logo" width="780" height="480" />
 
 You can choose a template of your choice and then open the template in [CodeSandbox](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/blog) which will automatically handle the required dependencies.
 

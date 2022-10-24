@@ -104,27 +104,6 @@ body {
 	align-items: center;
 	margin-bottom: 1em;
 }
-#darkMode {
-	background: transparent var(--image) no-repeat center;
-	background-size: 30px 30px;
-	background-color: var(--dark-mode);
-	width: 45px;
-	height: 45px;
-	filter: grayscale(100%);
-	border: none;
-	border-radius: 50%;
-	transition: background-color 0.3s ease-in-out, filter 0.3s ease-in-out;
-	&.clicked {
-		filter: none !important;
-		background-color: var(--dark-mode);
-	}
-}
-#darkMode:hover,
-#darkMode:focus {
-	filter: none;
-	background-color: var(--dark-mode-hf);
-	cursor: pointer;
-}
 footer {
 	padding: var(--spacing-6) var(--spacing-0);
 }
