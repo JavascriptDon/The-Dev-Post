@@ -4,8 +4,10 @@ import Sun from "../images/sun.svg"
 import Moon from "../images/moon.svg"
 
 function getDefaultTheme() {
-  const savedTheme = localStorage.getItem('mode');
-  return savedTheme ? savedTheme : 'light';
+  if(typeof window !== "undefined" && window.localStorage){
+    const savedTheme = window.localStorage.getItem('mode');
+    return savedTheme ? savedTheme : 'light';
+  }
 }
 
 export default function DarkMode() {
@@ -17,7 +19,9 @@ export default function DarkMode() {
     } else {
       document.body.classList.remove('dark');
     }
-    localStorage.setItem('mode', isDark);
+    if (typeof window !== `undefined` && window.localStorage) {
+      window.localStorage.setItem('mode', isDark) === "true";
+  }
   }, [isDark])
 
 
