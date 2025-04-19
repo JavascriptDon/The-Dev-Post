@@ -3,12 +3,12 @@ module.exports = {
     title: `The Dev Post`,
     author: {
       name: `Helitha Rupasinghe`,
-      summary: `I am a Developer. Driven by Passion.`,
+      summary: `I am a Developer with a strong passion for learning emerging technology.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `@legs_taken`,
+      twitter: ``,
     },
   },
   plugins: [
