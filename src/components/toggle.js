@@ -14,15 +14,12 @@ export default function DarkMode() {
   const [isDark, setIsDark] = React.useState(getDefaultTheme())
 
   React.useEffect(() => {
-    if (isDark === 'dark') {
-      document.body.classList.add('dark');
-    } else {
-      document.body.classList.remove('dark');
-    }
-    if (typeof window !== `undefined` && window.localStorage) {
-      window.localStorage.setItem('mode', isDark) === "true";
+  document.body.classList.toggle('dark', isDark === 'dark');
+
+  if (typeof window !== "undefined" && window.localStorage) {
+    window.localStorage.setItem('mode', isDark);
   }
-  }, [isDark])
+}, [isDark]);
 
 
   return (
