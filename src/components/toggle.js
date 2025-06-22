@@ -8,6 +8,7 @@ function getDefaultTheme() {
     const savedTheme = window.localStorage.getItem('mode');
     return savedTheme ? savedTheme : 'light';
   }
+  return 'light';
 }
 
 export default function DarkMode() {
