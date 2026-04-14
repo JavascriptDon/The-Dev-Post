@@ -9,14 +9,6 @@ export default function Footer() {
         </a>
       </div>
       <a
-        href="https://twitter.com/legs_taken"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Twitter
-      </a>{" "}
-      &bull;{" "}
-      <a
         href="https://github.com/JavascriptDon"
         target="_blank"
         rel="noopener noreferrer"
