@@ -1,7 +1,7 @@
 ---
 title: "Six Stunning Web Developer Portfolios Showcasing Three.js Mastery"
 date: "2024-04-06T08:23:37.121Z"
-description: "In this post, we'll cover six examples of impressive portfolios utilizing Three.js."
+description: "A showcase of six web developer portfolios that use Three.js for interactive 3D experiences."
 ---
 
 Here are six examples of impressive portfolios utilizing Three.js:

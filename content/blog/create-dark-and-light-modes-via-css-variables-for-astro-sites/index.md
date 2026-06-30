@@ -1,7 +1,7 @@
 ---
 title: Create Dark and Light Modes via CSS Variables for Astro.js sites.
 date: "2022-09-27T22:12:03.284Z"
-description: "The use of a dark mode has grown in popularity. Many large websites and applications are developing their own version of it which is often done using CSS variables."
+description: "A step-by-step Astro guide for adding dark and light themes with CSS variables and a JavaScript toggle."
 ---
 
 In this post, we'll look at how to add support for dark mode to your website in two ways: first with CSS and then with a JavaScript toggle.

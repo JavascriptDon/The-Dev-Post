@@ -1,7 +1,7 @@
 ---
 title: Every Blogger Should Save These 10 Insanely Useful Websites 👇
 date: "2022-09-20T22:40:32.169Z"
-description: "So here are a few helpful websites that you may not have known. Just type what you need!"
+description: "A roundup of useful websites and tools that help bloggers research, write, document, and share content."
 ---
 [Barsee](https://twitter.com/heyBarsee) is the author behind the list of 10 such websites, here we are going to look at some of them.
 

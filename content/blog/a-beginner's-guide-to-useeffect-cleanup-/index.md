@@ -1,7 +1,7 @@
 ---
 title: A Beginner's Guide to UseEffect Cleanup | By Helitha
 date: "2022-09-02T22:12:03.284Z"
-description: "With useEffect, you perform side effects from within functional components, which is an important concept for mastering React today."
+description: "A React guide explaining how useEffect cleanup prevents leaks, stale effects, and unwanted component behavior."
 ---
 
 With useEffect, you perform side effects from within functional components, which is an important concept for mastering React today.

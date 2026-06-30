@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Future of AI-Generated Video with Veo-3."
 date: "2025-06-21T13:23:37.121Z"
-description: "In this post, we'll use Flow, the AI filmmaking tool made specifically for Google Deepmind's top models like Veo, Imagen, and Gemini."
+description: "An overview of Google's Veo 3 and Flow, showing how AI video prompts can create cinematic scenes with audio."
 ---
 
 Veo3 is the latest AI video generation model for making short videos, released in May 2025. It can turn your text or image prompts into high-definition videos with native audio integration. Google also has Veo 2 which allows developers to create eight second videos directly within their browser from both text and image prompts:
