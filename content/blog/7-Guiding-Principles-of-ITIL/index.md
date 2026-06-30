@@ -1,7 +1,7 @@
 ---
 title: "The 7 Guiding Principles of ITIL: A Roadmap for Delivering Continous Improvement."
 date: "2024-06-14T08:23:37.121Z"
-description: "In this article, we’ll explore the seven core principles of ITIL."
+description: "A beginner-friendly overview of the seven ITIL guiding principles for improving IT service management."
 ---
 
 ITIL or Information Technology Infrastructure Library, is a well-known set of IT best practices and guidelines for managing the service lifecycle within an organisation. The latest version of ITIL v4 outlines seven key principles that serve as the foundation for exceptional IT Service management.

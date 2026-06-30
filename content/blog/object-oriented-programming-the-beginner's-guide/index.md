@@ -1,7 +1,7 @@
 ---
 title: Object Oriented Programming | The Beginner's Guide
 date: "2022-11-26T22:12:03.284Z"
-description: "In this post, we'll look at the following concepts of Object Oriented Programming."
+description: "A beginner's introduction to object-oriented programming concepts including classes, objects, and core OOP principles."
 ---
 
 In this post we will look at the following concepts of Objects Oriented Programming.

@@ -1,7 +1,7 @@
 ---
 title: "Can You Recognize a Deepfake? Here’s What You Need to Know!"
 date: "2025-08-31T13:23:37.121Z"
-description: "In this post, we'll discuss what deepfakes are, recognize common scams, and learning detection techniques, you can stay one step ahead."
+description: "A practical guide to understanding deepfakes, spotting common scams, and recognizing warning signs."
 ---
 Let's discuss what deepfakes are, recognize common scams, and learning detection techniques, you can stay one step ahead.
 

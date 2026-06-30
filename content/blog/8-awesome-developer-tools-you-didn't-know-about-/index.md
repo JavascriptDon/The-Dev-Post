@@ -1,7 +1,7 @@
 ---
 title: 8 Awesome Developer Tools You Didn't Know About
 date: "2022-08-11T22:40:32.169Z"
-description: "Consistency is more important than intensity."
+description: "A curated list of developer tools for coding assistance, collaboration, issue tracking, and productivity."
 ---
 
 ## 1. [GitHub Copilot](https://github.com/features/copilot/)

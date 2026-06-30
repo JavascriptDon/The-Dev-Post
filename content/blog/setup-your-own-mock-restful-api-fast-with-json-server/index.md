@@ -1,7 +1,7 @@
 ---
 title: Setup your own Mock RESTful API fast with JSON Server
 date: "2022-09-15T23:46:37.121Z"
-description: "In this article, we'll use JSON Server, a node module that enables you to quickly develop an example REST API in 30 seconds."
+description: "A hands-on guide to building a fast mock REST API with JSON Server and Node.js."
 ---
 
 In this article, we'll use JSON Server, a **Node Module** that enables you to quickly develop an example REST API in 30 seconds.

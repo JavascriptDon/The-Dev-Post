@@ -1,7 +1,7 @@
 ---
 title: "Tryhackme - Cyber Kill Chain."
 date: "2025-07-13T13:23:37.121Z"
-description: "In this post, we'll walk through the six attack phases to help you understand attacker methods and how to defend against them."
+description: "A walkthrough of the Cyber Kill Chain phases with TryHackMe-style prompts and defensive context."
 ---
 
 Let's walk through these attack phases to help you understand attacker methods and how to defend against them:

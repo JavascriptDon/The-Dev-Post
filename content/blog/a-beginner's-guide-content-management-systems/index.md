@@ -1,7 +1,7 @@
 ---
 title: A Beginner's Guide to Content Management Systems
 date: "2022-11-17T22:12:03.284Z"
-description: "In this article, we'll define what a content management system is and cover the different types of CMS available."
+description: "An introduction to content management systems, how they work, their types, and their pros and cons."
 ---
 
 Content management systems (CMS) are web applications that allow users to organise and manage their digital content. It provides the user with a GUI (Graphical User Interface) to manage the website. To build a website, users do not need to have knowledge of databases or programming. 

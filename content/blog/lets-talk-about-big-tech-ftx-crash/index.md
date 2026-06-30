@@ -1,7 +1,7 @@
 ---
 title: Let's talk about Big Tech | FTX Crash
 date: "2022-11-13T23:46:37.121Z"
-description: "In this article, we'll go over the events that have impacted FTX this month."
+description: "A timeline-style summary of the key events that led to FTX's rapid collapse."
 ---
 
 **FTX** is the most recent example of the instability of cryptocurrencies, following in the footsteps of **Voyager** and **Three Arrows Capital**.

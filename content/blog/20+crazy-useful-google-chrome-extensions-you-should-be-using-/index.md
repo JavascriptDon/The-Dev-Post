@@ -1,7 +1,7 @@
 ---
 title: 20+Crazy Useful Google Chrome Extensions You Should Be Using 👇
 date: "2022-08-19T22:40:32.169Z"
-description: "Developers are lifelong learners, we keep looking for new stuff. The best way to boost your productivity is in this article, so you should take the time to read it!"
+description: "A practical roundup of Chrome extensions for focus, bookmarking, annotation, productivity, and everyday developer workflows."
 ---
 
 ## 1. [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)

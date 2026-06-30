@@ -1,7 +1,7 @@
 ---
 title: "The Most Shocking Data Breaches of 2025: A Rundown"
 date: "2025-09-27T13:23:37.121Z"
-description: "In this post, we'll discuss several cyberattacks that messed up operations and exposed private info"
+description: "A rundown of major 2025 UK cyberattacks and the operational and privacy impacts they caused."
 ---
 
 In 2025, UK businesses were hit by several cyberattacks that messed up operations and exposed private info. Here’s what happened:
